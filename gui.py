@@ -35,6 +35,9 @@ class MainWindow(QMainWindow):
         translate_button = QPushButton("Übersetzen")
         translate_button.clicked.connect(self.translate_text)
 
+        OCRimport_button = QPushButton("OCR Import")
+        OCRimport_button.clicked.connect(self.open_window)
+
         table_button = QPushButton("Wörter auflisten")
         table_button.clicked.connect(self.show_word_list)
 
@@ -48,6 +51,7 @@ class MainWindow(QMainWindow):
         main_layout.addWidget(translate_button)
         main_layout.addWidget(table_button)
         main_layout.addWidget(dictionary_button)
+        main_layout.addWidget(OCRimport_button)
 
         self.setCentralWidget(main_widget)
 
@@ -128,3 +132,49 @@ class MainWindow(QMainWindow):
         dictionary_layout.addWidget(dictionary_line_edit, 0, 1)
 
         dictionary_dialog.exec_()
+
+    def open_window(self):
+        window = QDialog(self)
+        window.setWindowTitle("Bild- und Textanzeige")
+        window.setGeometry(200, 200, 800, 400)
+        window_layout = QHBoxLayout(window)
+
+        image_widget = QLabel(window)
+        text_widget = QTextEdit(window)
+
+        window_layout.addWidget(image_widget)
+        window_layout.addWidget(text_widget)
+
+        button_layout = QVBoxLayout()
+
+        button_1 = QPushButton("Button 1")
+        button_1.clicked.connect(lambda checked, index=1: self.button_clicked(index))
+        button_layout.addWidget(button_1)
+
+        button_2 = QPushButton("Button 2")
+        button_2.clicked.connect(lambda checked, index=2: self.button_clicked(index))
+        button_layout.addWidget(button_2)
+
+        button_3 = QPushButton("Button 3")
+        button_3.clicked.connect(lambda checked, index=3: self.button_clicked(index))
+        button_layout.addWidget(button_3)
+
+        button_4 = QPushButton("Button 4")
+        button_4.clicked.connect(lambda checked, index=4: self.button_clicked(index))
+        button_layout.addWidget(button_4)
+
+        button_5 = QPushButton("Button 5")
+        button_5.clicked.connect(lambda checked, index=5: self.button_clicked(index))
+        button_layout.addWidget(button_5)
+
+        button_6 = QPushButton("Button 6")
+        button_6.clicked.connect(lambda checked, index=6: self.button_clicked(index))
+        button_layout.addWidget(button_6)
+
+        window_layout.addLayout(button_layout)
+
+        window.exec_()
+
+    def button_clicked(self, index):
+        # Hier kommt der Code für die Funktionalität des jeweiligen Buttons
+        pass
