@@ -1,0 +1,434 @@
+[
+    {
+        "Grammatische Beschreibung": "maskulin singular Nominativ",
+        "Lateinische Schrift": "agnḥ",
+        "Devanagari": "अग्न्ḥ",
+        "Deutsch": "das  "
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Vokativ",
+        "Lateinische Schrift": "agn",
+        "Devanagari": "अग्न्",
+        "Deutsch": "des s von"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Akkusativ",
+        "Lateinische Schrift": "agnm",
+        "Devanagari": "अग्न्म्",
+        "Deutsch": "dem m zu"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Instrumental",
+        "Lateinische Schrift": "agnnā",
+        "Devanagari": "अग्न्न्ā",
+        "Deutsch": "das n für"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Dativ",
+        "Lateinische Schrift": "agnye",
+        "Devanagari": "अग्न्ये",
+        "Deutsch": "das  "
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Ablativ",
+        "Lateinische Schrift": "agnāt",
+        "Devanagari": "अग्न्āत्",
+        "Deutsch": "des s von"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Genitiv",
+        "Lateinische Schrift": "agneḥ",
+        "Devanagari": "अग्नेḥ",
+        "Deutsch": "dem m zu"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin singular Lokativ",
+        "Lateinische Schrift": "agnau",
+        "Devanagari": "अग्नौ",
+        "Deutsch": "das n für"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Nominativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Vokativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Akkusativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Instrumental",
+        "Lateinische Schrift": "agnbhyām",
+        "Devanagari": "अग्न्भ्य्āम्",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Dativ",
+        "Lateinische Schrift": "agnbhyām",
+        "Devanagari": "अग्न्भ्य्āम्",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Ablativ",
+        "Lateinische Schrift": "agnbhyām",
+        "Devanagari": "अग्न्भ्य्āम्",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Genitiv",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin dual Lokativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Nominativ",
+        "Lateinische Schrift": "agnayaḥ",
+        "Devanagari": "अग्नयḥ",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Vokativ",
+        "Lateinische Schrift": "agnayaḥ",
+        "Devanagari": "अग्नयḥ",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Akkusativ",
+        "Lateinische Schrift": "agnīn",
+        "Devanagari": "अग्न्īन्",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Instrumental",
+        "Lateinische Schrift": "agnbhiḥ",
+        "Devanagari": "अग्न्भिḥ",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Dativ",
+        "Lateinische Schrift": "agnbhyāḥ",
+        "Devanagari": "अग्न्भ्य्āḥ",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Ablativ",
+        "Lateinische Schrift": "agnbhyāḥ",
+        "Devanagari": "अग्न्भ्य्āḥ",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Genitiv",
+        "Lateinische Schrift": "agnīnām",
+        "Devanagari": "अग्न्īन्āम्",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "maskulin plural Lokativ",
+        "Lateinische Schrift": "agniṣu",
+        "Devanagari": "अग्निṣउ",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Nominativ",
+        "Lateinische Schrift": "agnā",
+        "Devanagari": "अग्न्ā",
+        "Deutsch": "das  "
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Vokativ",
+        "Lateinische Schrift": "agne",
+        "Devanagari": "अग्ने",
+        "Deutsch": "des s von"
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Akkusativ",
+        "Lateinische Schrift": "agnām",
+        "Devanagari": "अग्न्āम्",
+        "Deutsch": "dem m zu"
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Instrumental",
+        "Lateinische Schrift": "agnayā",
+        "Devanagari": "अग्नय्ā",
+        "Deutsch": "das n für"
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Dativ",
+        "Lateinische Schrift": "agnāyai",
+        "Devanagari": "अग्न्āयै",
+        "Deutsch": "das  "
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Ablativ",
+        "Lateinische Schrift": "agnāyāḥ",
+        "Devanagari": "अग्न्āय्āḥ",
+        "Deutsch": "des s von"
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Genitiv",
+        "Lateinische Schrift": "agnāyāḥ",
+        "Devanagari": "अग्न्āय्āḥ",
+        "Deutsch": "dem m zu"
+    },
+    {
+        "Grammatische Beschreibung": "feminin singular Lokativ",
+        "Lateinische Schrift": "agnāyām",
+        "Devanagari": "अग्न्āय्āम्",
+        "Deutsch": "das n für"
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Nominativ",
+        "Lateinische Schrift": "agne",
+        "Devanagari": "अग्ने",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Vokativ",
+        "Lateinische Schrift": "agne",
+        "Devanagari": "अग्ने",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Akkusativ",
+        "Lateinische Schrift": "agne",
+        "Devanagari": "अग्ने",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Instrumental",
+        "Lateinische Schrift": "agnābhyām",
+        "Devanagari": "अग्न्āभ्य्āम्",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Dativ",
+        "Lateinische Schrift": "agnābhyām",
+        "Devanagari": "अग्न्āभ्य्āम्",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Ablativ",
+        "Lateinische Schrift": "agnābhyām",
+        "Devanagari": "अग्न्āभ्य्āम्",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Genitiv",
+        "Lateinische Schrift": "agnāyām",
+        "Devanagari": "अग्न्āय्āम्",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "feminin dual Lokativ",
+        "Lateinische Schrift": "agnāyām",
+        "Devanagari": "अग्न्āय्āम्",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Nominativ",
+        "Lateinische Schrift": "agnāḥ",
+        "Devanagari": "अग्न्āḥ",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Vokativ",
+        "Lateinische Schrift": "agnāḥ",
+        "Devanagari": "अग्न्āḥ",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Akkusativ",
+        "Lateinische Schrift": "agnāḥ",
+        "Devanagari": "अग्न्āḥ",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Instrumental",
+        "Lateinische Schrift": "agnābhiḥ",
+        "Devanagari": "अग्न्āभिḥ",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Dativ",
+        "Lateinische Schrift": "agnābhyāḥ",
+        "Devanagari": "अग्न्āभ्य्āḥ",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Ablativ",
+        "Lateinische Schrift": "agnābhyāḥ",
+        "Devanagari": "अग्न्āभ्य्āḥ",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Genitiv",
+        "Lateinische Schrift": "agnānām",
+        "Devanagari": "अग्न्āन्āम्",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "feminin plural Lokativ",
+        "Lateinische Schrift": "agnāsu",
+        "Devanagari": "अग्न्āसु",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Nominativ",
+        "Lateinische Schrift": "agnm",
+        "Devanagari": "अग्न्म्",
+        "Deutsch": "das  "
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Vokativ",
+        "Lateinische Schrift": "agnm",
+        "Devanagari": "अग्न्म्",
+        "Deutsch": "des s von"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Akkusativ",
+        "Lateinische Schrift": "agnm",
+        "Devanagari": "अग्न्म्",
+        "Deutsch": "dem m zu"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Instrumental",
+        "Lateinische Schrift": "agnnā",
+        "Devanagari": "अग्न्न्ā",
+        "Deutsch": "das n für"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Dativ",
+        "Lateinische Schrift": "agnne",
+        "Devanagari": "अग्न्ने",
+        "Deutsch": "das  "
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Ablativ",
+        "Lateinische Schrift": "agnnāt",
+        "Devanagari": "अग्न्न्āत्",
+        "Deutsch": "des s von"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Genitiv",
+        "Lateinische Schrift": "agnneḥ",
+        "Devanagari": "अग्न्नेḥ",
+        "Deutsch": "dem m zu"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum singular Lokativ",
+        "Lateinische Schrift": "agnni",
+        "Devanagari": "अग्न्नि",
+        "Deutsch": "das n für"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Nominativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Vokativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Akkusativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Instrumental",
+        "Lateinische Schrift": "agnbhyām",
+        "Devanagari": "अग्न्भ्य्āम्",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Dativ",
+        "Lateinische Schrift": "agnbhyām",
+        "Devanagari": "अग्न्भ्य्āम्",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Ablativ",
+        "Lateinische Schrift": "agnbhyām",
+        "Devanagari": "अग्न्भ्य्āम्",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Genitiv",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum dual Lokativ",
+        "Lateinische Schrift": "agnī",
+        "Devanagari": "अग्न्ī",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Nominativ",
+        "Lateinische Schrift": "agnāni",
+        "Devanagari": "अग्न्āनि",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Vokativ",
+        "Lateinische Schrift": "agnāni",
+        "Devanagari": "अग्न्āनि",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Akkusativ",
+        "Lateinische Schrift": "agnāni",
+        "Devanagari": "अग्न्āनि",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Instrumental",
+        "Lateinische Schrift": "agnbhiḥ",
+        "Devanagari": "अग्न्भिḥ",
+        "Deutsch": "die e für"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Dativ",
+        "Lateinische Schrift": "agnbhyāḥ",
+        "Devanagari": "अग्न्भ्य्āḥ",
+        "Deutsch": "die e "
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Ablativ",
+        "Lateinische Schrift": "agnbhyāḥ",
+        "Devanagari": "अग्न्भ्य्āḥ",
+        "Deutsch": "der er von"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Genitiv",
+        "Lateinische Schrift": "agnīnām",
+        "Devanagari": "अग्न्īन्āम्",
+        "Deutsch": "den en zu"
+    },
+    {
+        "Grammatische Beschreibung": "neutrum plural Lokativ",
+        "Lateinische Schrift": "agniṣu",
+        "Devanagari": "अग्निṣउ",
+        "Deutsch": "die e für"
+    }
+]
