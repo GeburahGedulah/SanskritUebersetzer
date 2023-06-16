@@ -2,6 +2,7 @@ from PyQt5.QtWidgets import QMainWindow, QWidget, QTextEdit, QVBoxLayout, QHBoxL
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import Qt
 from funktionen import translate
+import dict
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -118,20 +119,7 @@ class MainWindow(QMainWindow):
         table_dialog.exec_()
 
     def show_dictionary_dialog(self):
-        dictionary_dialog = QDialog(self)
-        dictionary_dialog.setWindowTitle("Wörterbuch")
-        dictionary_dialog.setGeometry(200, 200, 400, 300)
-        dictionary_layout = QGridLayout(dictionary_dialog)
-
-        dictionary_label = QLabel("Wörterbuch:")
-        dictionary_line_edit = QLineEdit()
-        dictionary_line_edit.setReadOnly(True)
-        dictionary_line_edit.setText("Standardwörterbuch")  # Hier können Sie das Standardwörterbuch implementieren
-
-        dictionary_layout.addWidget(dictionary_label, 0, 0)
-        dictionary_layout.addWidget(dictionary_line_edit, 0, 1)
-
-        dictionary_dialog.exec_()
+        dict.start_dictionary_app()
 
     def open_window(self):
         window = QDialog(self)
